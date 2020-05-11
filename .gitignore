@@ -1,0 +1,14 @@
+# for TerraformFile
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+private_ips.txt
+.terraform
+mykey.pem
+mykey
+mykey.pub
+keySetting.sh
+
+# Vagrant file
+.vagrant
+.fuse_hidde*
